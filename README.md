@@ -1,2 +1,4 @@
-# Excel-Mini-Project
-Workforce &amp; Sales Intelligence Dashboard
+# My-Excel-Mini-Project
+
+Workforce \& Sales Intelligence Dashboard
+
